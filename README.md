@@ -1,1 +1,1 @@
-# edinburgh-web-studiO
+# edinburgh-web-studio
